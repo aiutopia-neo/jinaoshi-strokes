@@ -1,15 +1,20 @@
 {
- "version": "2026-10-12.1",
+ "version": "2026-10-12.2",
  "files": [
   {
    "name": "templates-basic.json",
    "bytes": 829878,
-   "sha256": "1ff56c247f9ea4ef8bd714002c12ce315067b8db0b2f99282b29187594a6c702"
+   "sha256": "b0d018e757b57a863c748cd23d7747093513ee0b6aff8561c1774097cc4f3788"
   },
   {
    "name": "templates-names.json",
    "bytes": 714590,
-   "sha256": "1af407d36cd8a8bb45b4ce32afce34c26c08266ffd002bc0951a5d2efd5525b5"
+   "sha256": "ba8d03e496b15b043e4d41fb3aa872c6a6f67a226b52d73ec4530ae77d12919c"
+  },
+  {
+   "name": "templates-address.json",
+   "bytes": 243594,
+   "sha256": "5e350abe7070398569548f773d6d5b950e37f285c9cf5314c28d4c90f89b9e88"
   }
  ]
 }

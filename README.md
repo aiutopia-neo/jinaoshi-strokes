@@ -20,6 +20,7 @@
 | --- | --- |
 | `data/v1/templates-basic.json` | ひらがな・カタカナ・よく使う漢字 |
 | `data/v1/templates-names.json` | 名前・住所によく使う字 |
+| `data/v1/templates-address.json` | 都道府県名・住所の言葉の字（上の2つに入らない字） |
 | `data/v1/manifest.json` | 版・大きさ・SHA-256 |
 
 座標は、Klee One の em 正方形を 0〜1 にしたもの（左上が原点・下向きが +y）。各画は筆順どおりに並びます。

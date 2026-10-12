@@ -1,0 +1,15 @@
+{
+ "version": "2026-10-12.1",
+ "files": [
+  {
+   "name": "templates-basic.json",
+   "bytes": 829878,
+   "sha256": "1ff56c247f9ea4ef8bd714002c12ce315067b8db0b2f99282b29187594a6c702"
+  },
+  {
+   "name": "templates-names.json",
+   "bytes": 714590,
+   "sha256": "1af407d36cd8a8bb45b4ce32afce34c26c08266ffd002bc0951a5d2efd5525b5"
+  }
+ ]
+}
